@@ -1,79 +1,22 @@
-# Hi there 👋 I'm Taimeen Bhanu  
 
-🎓 Graduate 2025 | 💻 Aspiring Software Developer | 📊 Data Analyst Enthusiast  
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__taimeen_04) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/taimeen-bhanu-mulla-56807b293) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:taimeenbhanu@gmail.com) 
 
----
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![CrateDB](https://img.shields.io/badge/CrateDB-009DC7?style=for-the-badge&logo=CrateDB&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Taimeen&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Taimeen&theme=blue-green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Taimeen&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🚀 About Me  
-- 🎓 Recently graduated in **Computer Science & Engineering (2025)** with **CGPA: 9.30**  
-- 🏆 Consistently ranked **1st in all semesters**  
-- 💻 Passionate about **Full Stack Development** & **Data Analytics**  
-- 🔒 Certified **Cybersecurity Analyst** (TCS)  
-- 🌱 Currently focusing on **Next.js, Data Visualization & Cloud Computing**  
-- 💡 I enjoy solving problems & building projects that create real-world impact  
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Taimeen&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## 🛠️ Tech Stack  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Taimeen&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-
-## 📌 Featured Projects  
-### 🔹 [Cipher](https://github.com/Taimeen/Cipher)  
-AI-powered SMS spam detection Android app  
-*Role: Frontend Development*  
-
----
-
-### 🔹 [AI-Driven Recipe Generator](https://github.com/Taimeen/AI--Driven-recipe-generator)  
-Smart recipe recommendation system powered by AI  
-*Role: Frontend Development*  
-
----
-
-### 🔹 [Air Canvas](https://github.com/Taimeen/Air_canvas)  
-Hand gesture recognition drawing app using OpenCV  
-*Role: Frontend Development*  
-
----
-
-### 🔹 [Doctors Appointmenet platform](https://github.com/Taimeen/doctors-appointment-platform)  
-HubSpot-inspired CRM with campaigns, leads, and analytics  
-*Role: Full Stack Development (Next.js)*  
-
----
-
-### 🔹 [Helpdesk Ticket Simulator](https://github.com/Taimeen/helpdesk-ticket-simulator)  
-Web-based platform to simulate IT helpdesk ticketing workflow  
-*Role: Frontend Development*  
-
----
-
-### 🔹 [Scheduling App](https://github.com/Taimeen/Scheduling-App)  
-Calendar-based scheduling tool with task & meeting tracking  
-*Role: Full Stack Development*  
-
-
----
-
-## 📊 GitHub Stats  
-![Taimeen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taimeen&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Taimeen&layout=compact&theme=radical)  
-
----
-
-## 🌐 Connect With Me  
-📫 Email: **taimeenbhanu@gmail.com**  
-💼 [LinkedIn](www.linkedin.com/in/taimeen-bhanu-mulla-56807b293)  
-
-
----
-✨ *"Code. Create. Contribute."* ✨
+[![](https://visitcount.itsvg.in/api?id=Taimeen&icon=0&color=0)](https://visitcount.itsvg.in)
